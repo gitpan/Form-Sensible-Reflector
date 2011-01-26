@@ -1,0 +1,12 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Form/Sensible/Reflector.pm
+t/lib/MockReflector.pm
+t/release-pod-coverage.t
+t/release-pod-syntax.t
+t/trigger.t
